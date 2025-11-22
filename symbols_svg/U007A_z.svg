@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1010 1000"
+   id="svg866"
+   sodipodi:docname="U007A_z.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs870" />
+  <sodipodi:namedview
+     id="namedview868"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.5925"
+     inkscape:cx="767.08861"
+     inkscape:cy="679.32489"
+     inkscape:window-width="2494"
+     inkscape:window-height="1371"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg866"
+     inkscape:snap-global="false" />
+  <rect
+     style="fill:#dc0000;fill-rule:evenodd;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:19.02;fill-opacity:1"
+     id="rect845"
+     width="1016.1195"
+     height="219.56371"
+     x="-15.531845"
+     y="780.17365" />
+  <path
+     id="path3698"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 711.55859 200.76367 L 437.72656 205.2207 L 439.41406 254.16602 L 358.40234 252.47852 L 365.15234 203.5332 L 311.04883 208.70117 L 312.73828 320.09375 L 515.64648 314.33203 L 519.02148 246.82031 L 714.93555 251.39648 L 711.55859 200.76367 z M 525.74609 333.94727 L 465.82227 414.83398 L 515.9707 418.33594 L 517.6582 565.17188 L 595.29492 445.33984 L 596.98242 416.64844 L 615.54688 418.33594 L 676.30664 335.63477 L 525.74609 333.94727 z M 501.95312 593.80859 L 344.79688 597.04883 L 288.41602 680.62891 L 281.14062 721.88086 L 721.39062 713.71484 L 720.52539 651.19336 L 459.75781 645.28516 L 501.95312 593.80859 z "
+     transform="translate(-10)" />
+</svg>

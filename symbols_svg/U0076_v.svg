@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1010 1000"
+   id="svg866"
+   sodipodi:docname="U0076_v.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs870" />
+  <sodipodi:namedview
+     id="namedview868"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.41896077"
+     inkscape:cx="858.07557"
+     inkscape:cy="1213.7175"
+     inkscape:window-width="2494"
+     inkscape:window-height="1371"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg866"
+     inkscape:snap-global="false" />
+  <rect
+     style="fill:#dc0000;fill-rule:evenodd;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:19.02;fill-opacity:1"
+     id="rect845"
+     width="1016.1195"
+     height="219.56371"
+     x="-15.531845"
+     y="780.17365" />
+  <path
+     id="path9841"
+     style="fill:#040000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 576.45117 317.12305 L 565.6582 347.50195 L 693.92773 348.3457 L 708.27344 317.9668 L 576.45117 317.12305 z M 243.94727 416.91797 L 270.10742 482.74219 L 395.94531 483.66992 L 371.66797 418.08203 L 243.94727 416.91797 z M 542.05273 418.7793 L 477.04688 617.44922 L 480.42383 695.92969 L 353.75977 697.27344 L 375.30273 760.52148 L 532.96875 758.83398 L 558.2793 700.07227 L 557.43555 623.2793 L 585.28516 624.12305 L 612.41016 552.82031 L 557.87695 554.50977 L 557.24219 418.7793 L 542.05273 418.7793 z M 296.45117 556.93945 C 299.8267 557.78333 325.48438 625.19727 325.48438 625.19727 L 442.80859 623.27344 L 420.02344 559.13867 L 296.45117 556.93945 z "
+     transform="translate(-10)" />
+</svg>
