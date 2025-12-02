@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 1010 1000"
+   id="svg866"
+   sodipodi:docname="U002A_asterisk.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs870" />
+  <sodipodi:namedview
+     id="namedview868"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.185"
+     inkscape:cx="717.72152"
+     inkscape:cy="559.91561"
+     inkscape:window-width="2494"
+     inkscape:window-height="1371"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg866"
+     inkscape:snap-global="false" />
+  <rect
+     style="fill:#dc0000;fill-opacity:1;fill-rule:evenodd;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:19.02"
+     id="rect845"
+     width="1016.1195"
+     height="219.56371"
+     x="-15.531845"
+     y="781.01752" />
+  <path
+     id="path2521"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 514.80078 182 L 446.77539 182.5957 L 446.77539 221.38281 L 456.91797 221.98047 L 454.53125 189.16016 L 505.54492 191.28711 L 505.38867 272.2207 L 437.29688 273.11719 L 434.3125 291.61523 L 340.01953 268.74219 L 328.68164 293.20703 L 330.37109 336.41992 L 394.00391 341.78516 L 390.42383 360.2832 L 415.48633 373.41016 L 391.45703 412.48828 L 393.26367 474.78906 L 365.21875 454.50195 L 361.04297 469.41797 L 393.23633 489.42773 L 408.1543 503.15039 L 458.42383 447.47852 L 462.46289 339.08203 L 569.90625 342.41992 L 519.33203 362.20898 L 591.67969 464.50195 L 550.99414 489.16992 L 503.25781 434.86914 L 497.28906 439.64258 L 552.64062 503.32031 L 605.64062 469.07617 L 538.69336 367.38672 L 598.60156 343.31055 L 601.97461 343.41602 L 642.19922 327.79883 L 621.91211 268.49609 L 519.85742 293.53711 L 518.06836 272.05469 L 516.47852 272.07617 L 514.80078 182 z "
+     transform="translate(-10)" />
+</svg>
